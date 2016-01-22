@@ -1,0 +1,14 @@
+{
+  "author": "Fuse",
+  "name": "Piwik_data_modeling",
+  "description": "Piwik data modeling",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node main/app.js"
+  },
+  "dependencies": {
+    "express": "~4.0.0",
+    "request": "~2.34.0"
+  }
+}
